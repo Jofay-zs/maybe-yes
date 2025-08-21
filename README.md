@@ -1,10 +1,7 @@
-
-<img width="1190" alt="maybe_hero" src="https://github.com/user-attachments/assets/5ed08763-a9ee-42b2-a436-e05038fcf573" />
-
 # Maybe: The personal finance app for everyone
 
 > [!IMPORTANT]
-> This repository is no longer actively maintained. You can read more about this in our [final release](https://github.com/maybe-finance/maybe/releases/tag/v0.6.0).
+> The purpose of this fork is to maintain the self-hosted version of Maybe Finance but is **not affiliated with or endorsed by** Maybe Finance Inc. I personally run it on local and make changes to it from time to time, everyone is welcome to contribute.
 
 ## Maybe Hosting
 
@@ -12,7 +9,7 @@ Maybe is a fully working personal finance app that can be [self hosted with Dock
 
 ## Forking and Attribution
 
-This repo is no longer maintained. You’re free to fork it under the AGPLv3. To stay compliant and avoid trademark issues:
+You’re free to fork it under the AGPLv3. To stay compliant and avoid trademark issues:
 
 - Be sure to include the original [AGPLv3 license](https://github.com/maybe-finance/maybe/blob/main/LICENSE) and clearly state in your README that your fork is based on Maybe Finance but is **not affiliated with or endorsed by** Maybe Finance Inc.
 - "Maybe" is a trademark of Maybe Finance Inc. and therefore, use of it is NOT allowed in forked repositories (or the logo)
